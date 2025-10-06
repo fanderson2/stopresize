@@ -1,0 +1,10 @@
+{
+  "name": "No Resize Tokens",
+  "id": "no-resize-tokens",
+  "version": "1.0.0",
+  "description": "Prevents non-GM players from resizing tokens.",
+  "author": "Your Name",
+  "type": "extension",
+  "main": "main.js",
+  "apiVersion": "1.0"
+}
