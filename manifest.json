@@ -1,11 +1,14 @@
 {
-  "manifestVersion": 1,
   "name": "No Resize Tokens",
-  "id": "no-resize-tokens",
   "version": "1.0.0",
-  "description": "Prevents non-GM players from resizing tokens.",
-  "author": "Your Name",
-  "type": "extension",
-  "main": "main.js",
-  "apiVersion": "1.0"
+  "manifest_version": 1,
+  "icon": "https://example.com/icon.png",
+  "homepage_url": "https://example.com",
+  "action": {
+    "title": "No Resize Tokens",
+    "icon": "https://example.com/icon-action.png",
+    "popover": "https://example.com/owlbear-popover.html",
+    "height": 200,
+    "width": 400
+  }
 }
